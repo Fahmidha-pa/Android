@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
     public void Sub(View view) {
         float a = Float.parseFloat(ET1.getText().toString());
         float b = Float.parseFloat(ET2.getText().toString());
-        float c = a - b;••••••••••
+        float c = a - b;
         T1.setText("Result: " + c);
 
     }
